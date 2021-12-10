@@ -6,7 +6,7 @@
      alt="GDG Manama Logo" /> </a>
 # Flutter Clock Challenge
 
-This source code is to be used as a starting point to enter the FlutterClock challenge. It contains necessary code to display the time in a way that can be easily modified to create your awesome designs. 
+This source code is to be used as a starting point to enter the FlutterClock challenge. It contains the necessary code to display the time in a way that can be easily modified to create your incredible designs. 
 
 # Demo 
 <img height="150px" src="images/clockfinal2.gif"
@@ -19,16 +19,16 @@ This source code is to be used as a starting point to enter the FlutterClock cha
 1. Run the command `flutter pub get`
 1. Run the command `flutter run`
 
-1. If you don't have flutter installed you can use [DartPad](https://dartpad.dartlang.org/) However, you will not be able to use external packages  
+1. If you don't have flutter installed, you can use [DartPad](https://dartpad.dartlang.org/) However, you will not be able to use external packages  
 
 # Addtional information 
-1. To add custom font you can use [Google Font Package](https://pub.dev/packages/google_fonts)
+1. To add a custom font, you can use [Google Font Package](https://pub.dev/packages/google_fonts)
 
-1. To add [animation to the time text you can follow this tutorial](https://www.youtube.com/watch?v=FEQpKnhceKM)
+1. To add [animation to the time text, you can follow this tutorial](https://www.youtube.com/watch?v=FEQpKnhceKM)
 
 <iframe width="648" height="233" src="https://www.youtube.com/embed/FEQpKnhceKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. To format the Date in diffrent formats replace the string in the code below 
+1. To format the Date in different forms, replace the string in the code below 
 
 ```Dart
 DateFormat("hh").format(dateTime);
